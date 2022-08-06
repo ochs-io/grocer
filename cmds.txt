@@ -1,0 +1,2 @@
+python3 -m startproject mysite
+python3 manage.py runserver
