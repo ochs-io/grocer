@@ -167,6 +167,6 @@ More docs on relations: https://docs.djangoproject.com/en/4.1/ref/models/relatio
 
 
 
-### Introducing the Django admin
+### Introducing the Django admin https://docs.djangoproject.com/en/4.1/intro/tutorial02/#introducing-the-django-admin
 
 python manage.py createsuperuser
