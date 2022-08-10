@@ -8,6 +8,7 @@
 {{ question }}
 <h1>{{  question.question_text }}</h1>
 <ul>
+{#https://docs.djangoproject.com/en/4.1/topics/templates/#}
     {% for choice in question.choice_set.all %}
     <li>{{  choice.choice_text }}</li>
     {% endfor %}
